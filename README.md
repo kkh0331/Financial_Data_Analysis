@@ -3,11 +3,16 @@
 - 2023학년도 1학기(4학년 1학기) 경희대학교 산업경영공학과 머신러닝 과목에서 했던 프로젝트
 
 # 여행자 보험 데이터 분류
-- kaggle : <a href='https://www.kaggle.com/datasets/mhdzahier/travel-insurance?resource=download'> 여행자 보험 데이터</a>
+- kaggle : <a href='https://www.kaggle.com/datasets/mhdzahier/travel-insurance'>여행자 보험 데이터</a>
 - KNeighborsClassifier
 
-# 보험표 예측
-- kaggle : <a href='https://www.kaggle.com/datasets/mhdzahier/travel-insurance?resource=download'> 의료 보험료 예측 데이터</a>
+# 고객 신용 예측
+- kaggle : <a href='https://www.kaggle.com/datasets/ppb00x/credit-risk-customers'>신용 위험 소비자 데이터</a>
+- LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, SVC, GaussianNB, RandomForestClassifier, AdaBoostClassifier
+- 학교 프로젝트로 진행했었으나 핀테크 아카데미 수업을 듣고 보충하였음
+
+# 보험료 예측
+- kaggle : <a href='https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction'>의료 보험료 예측 데이터</a>
 - LinearRegression, KNeighborsRegressor, PolynomialFeatures, RandomForestRegressor, SVR, VotingRegressor
 
 # 주가 데이터 분석
