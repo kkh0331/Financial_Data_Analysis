@@ -21,6 +21,7 @@
 - Y : 당일 종가 데이터
 - sklearn 라이브러리를 활용해 X와 Y 관계에 대한 모델을 도출함
 - 최종적으로 어제 주가 데이터를 입력하여 오늘의 종가를 예측하는 것을 목표로 함
+- LinearRegression, SVR, KNeighborsRegressor, Keras-LSTM
 
 # Main Libraries
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
