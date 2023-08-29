@@ -4,10 +4,10 @@
 
 # 여행자 보험 데이터 분류
 - kaggle : <a href='https://www.kaggle.com/datasets/mhdzahier/travel-insurance?resource=download'> 여행자 보험 데이터</a>
-- 1. 데이터 불러오기
-- 2. 데이터 전처리(이상치 제거는 하지 않았음)
-- 3. 탐색적 자료분석
-- 4. 모델링
+1. 데이터 불러오기
+2. 데이터 전처리(이상치 제거는 하지 않았음)
+3. 탐색적 자료분석
+4. 모델링
 
 # 주가 데이터 분석
 - yfinance을 활용하여 주가 데이터를 받아옴
